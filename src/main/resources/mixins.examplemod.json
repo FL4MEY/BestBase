@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "me.peanut.hydrogen.injection.mixins",
+  "refmap": "mixins.hydrogen.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+
+  ]
+}
